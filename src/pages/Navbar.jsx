@@ -23,27 +23,27 @@ function Navbar() {
             <div className="flex justify-evenly mt-4">
                 <div className="flex items-center gap-2">
                     <div className="h-1.5 w-1.5 bg-amber-600 rounded-sm"></div>
-                <div className="text-amber-600">HOME</div>
+                <div className="text-amber-600 cursor-pointer">HOME</div>
                  <div className="h-1.5 w-1.5 bg-amber-600 rounded-sm"></div>
                 </div>
                 <div className="flex items-center gap-2">
                     <div className="h-1.5 w-1.5 bg-white rounded-sm"></div>
-                <div className="text-white">ABOUT</div>
+                <div className="text-white cursor-pointer">ABOUT</div>
                  <div className="h-1.5 w-1.5 bg-white rounded-sm"></div>
                 </div>
                 <div className="flex items-center gap-2">
                     <div className="h-1.5 w-1.5 bg-white rounded-sm"></div>
-                <div className="text-white">MENU</div>
+                <div className="text-white cursor-pointer">MENU</div>
                  <div className="h-1.5 w-1.5 bg-white rounded-sm"></div>
                 </div>
                 <div className="flex items-center gap-2">
                     <div className="h-1.5 w-1.5 bg-white rounded-sm"></div>
-                <div className="text-white">OFFERS</div>
+                <div className="text-white cursor-pointer">OFFERS</div>
                  <div className="h-1.5 w-1.5 bg-white rounded-sm"></div>
                 </div>
                 <div className="flex items-center gap-2">
                     <div className="h-1.5 w-1.5 bg-white rounded-sm"></div>
-                <div className="text-white">SHOP</div>
+                <div className="text-white cursor-pointer">SHOP</div>
                  <div className="h-1.5 w-1.5 bg-white rounded-sm"></div>
                 </div>
                 
