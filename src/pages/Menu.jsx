@@ -11,7 +11,6 @@ import Figure3 from "../assets/Figure3.png"
 
 
 
-
 function Menu() {
   return (
     <div className="bg-black pb-12 pt-16">

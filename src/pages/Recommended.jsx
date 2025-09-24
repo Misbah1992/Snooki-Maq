@@ -18,17 +18,17 @@ function Recommended() {
       <div className="flex justify-evenly mt-16">
         <div className="flex flex-col items-center">
             <img alt="image" src={image22}/>
-            <div className="text-white text-xl font-semibold">HOP & ROLL BEER</div>
+            <div className="text-white text-xl font-semibold py-4">HOP & ROLL BEER</div>
              <img alt="image" src={HeadingImage6}/>
         </div>
          <div className="flex flex-col items-center">
             <img alt="image" src={image23}/>
-            <div className="text-white text-xl font-semibold">NEW BRANDED BEER</div>
+            <div className="text-white text-xl font-semibold py-4">NEW BRANDED BEER</div>
              <img alt="image" src={HeadingImage7}/>
         </div>
         <div className="flex flex-col items-center">
             <img alt="image" src={image24}/>
-            <div className="text-white text-xl font-semibold">IPA BEER</div>
+            <div className="text-white text-xl font-semibold py-4">IPA BEER</div>
              <img alt="image" src={HeadingImage8}/>
         </div>
       </div>

@@ -6,6 +6,7 @@ import About from './pages/About'
 import Menu from './pages/Menu'
 import Display from './pages/Display'
 import Recommended from './pages/Recommended'
+import Specials from './pages/Specials'
 
 function App() {
 
@@ -19,6 +20,7 @@ function App() {
     <Menu/>
     <Display/>
     <Recommended/>
+    <Specials/>
     </>
   )
 }
